@@ -5,10 +5,10 @@ On the Arduino board, I connected the LEDs through 220 ohm resistors.
 
 # Scheme
 <p align="center">
-  <img width="700" align="center" src="" alt="Scheme"/>
+  <img width="700" align="center" src="https://github.com/MaxWatson94/arduino_traffic-light/blob/master/info/Untitled.png" alt="Scheme"/>
 </p>
 
 # Demo
 <p align="center">
-  <img width="700" align="center" src="" alt="demo"/>
+  <img width="700" align="center" src="https://github.com/MaxWatson94/arduino_traffic-light/blob/master/info/video_2023-01-09_19-42-52.gif" alt="demo"/>
 </p>
