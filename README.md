@@ -1,7 +1,7 @@
 # 1st mini project: Traffic Light
 In this tutorial project, I tried to make a traffic light.
-Along the way, I learned how to use variables and the "for" loop.
-On the Arduino board, I connected the LEDs through 220 ohm resistors.
+<br>Along the way, I learned how to use variables and the "for" loop.
+<br>On the Arduino board, I connected the LEDs through 220 ohm resistors.
 
 # Scheme
 Connection diagram. I show an example of one LED, the rest are connected in the same way.
