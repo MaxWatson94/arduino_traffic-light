@@ -4,6 +4,7 @@ Along the way, I learned how to use variables and the "for" loop.
 On the Arduino board, I connected the LEDs through 220 ohm resistors.
 
 # Scheme
+Connection diagram. I show an example of one LED, the rest are connected in the same way.
 <p align="center">
   <img width="700" align="center" src="https://github.com/MaxWatson94/arduino_traffic-light/blob/master/info/Untitled.png" alt="Scheme"/>
 </p>
