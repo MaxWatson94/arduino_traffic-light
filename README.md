@@ -9,6 +9,7 @@ On the Arduino board, I connected the LEDs through 220 ohm resistors.
 </p>
 
 # Demo
+I used a blue LED because I didn't have a yellow one. But in the code everywhere it is indicated as yellow.
 <p align="center">
   <img width="700" align="center" src="https://github.com/MaxWatson94/arduino_traffic-light/blob/master/info/video_2023-01-09_19-42-52.gif" alt="demo"/>
 </p>
